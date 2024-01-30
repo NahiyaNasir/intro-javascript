@@ -1,0 +1,5 @@
+    ///Generate a multiplication table for number 9
+   // Implement a countdown timer that counts down from 81 to 65.
+   for(i=81; i>=65; i--){
+      console.log(i);
+   }
